@@ -1,0 +1,23 @@
+['age' 'sex' 'height' 'weight' 'qrs_duration(ms)' 'p-r_interval(ms)'
+ 'q-t_interval' 't_interval' 'p_interval' 'qrs' 'T' 'P' 'QRST(ms)' 'J'
+ 'heart_rate(bpm)' 'q_wave(ms)' 'r_wave(ms)' 's_wave(ms)' "R'_wave(ms)"
+ "S'_wave(ms)" 'AA' 'AB' 'AC' 'AD' 'AE' 'AF' 'AG' 'AH' 'AI' 'AJ' 'AK' 'AL'
+ 'AM' 'AN' 'AO' 'AP' 'AR' 'AS' 'AT' 'AU' 'AV' 'AY' 'AZ' 'BA' 'BB' 'BC'
+ 'BD' 'BE' 'BF' 'BG' 'BH' 'BI' 'BJ' 'BK' 'BL' 'BM' 'BN' 'BO' 'BP' 'BR'
+ 'BS' 'BT' 'BU' 'BV' 'BY' 'BZ' 'CA' 'CB' 'CC' 'CD' 'CE' 'CF' 'CG' 'CH'
+ 'CI' 'CJ' 'CK' 'CL' 'CM' 'CN' 'CO' 'CP' 'CR' 'CS' 'CT' 'CU' 'CV' 'CY'
+ 'CZ' 'DA' 'DB' 'DC' 'DD' 'DE' 'DF' 'DG' 'DH' 'DI' 'DJ' 'DK' 'DL' 'DM'
+ 'DN' 'DO' 'DP' 'DR' 'DS' 'DT' 'DU' 'DV' 'DY' 'DZ' 'EA' 'EB' 'EC' 'ED'
+ 'EF' 'EG' 'EH' 'EI' 'EJ' 'EK' 'EL' 'EM' 'EN' 'EO' 'EP' 'ER' 'ES' 'ET'
+ 'EU' 'EV' 'EY' 'EZ' 'FA' 'FB' 'FC' 'FD' 'FE' 'FF' 'FG' 'FH' 'FI' 'FJ'
+ 'FK' 'FL' 'FM' 'FN' 'FO' 'FP' 'FR' 'FS' 'FT' 'FU' 'FV' 'FY' 'FZ' 'GA'
+ 'GB' 'JJ_wave(mv)' 'Q_wave(mv)' 'R_wave(mv)' 'S_wave(mv)' "R'_wave(mv)"
+ "S'_wave(mv)" 'P_wave(mv)' 'T_wave(mv)' 'QRSA(mvs)' 'QRSTA(mvs)' 'GM'
+ 'GN' 'GO' 'GP' 'GR' 'GS' 'GT' 'GU' 'GV' 'GY' 'GZ' 'HA' 'HB' 'HC' 'HD'
+ 'HE' 'HF' 'HG' 'HH' 'HI' 'HJ' 'HK' 'HL' 'HM' 'HN' 'HO' 'HP' 'HR' 'HS'
+ 'HT' 'HU' 'HV' 'HY' 'HZ' 'IA' 'IB' 'IC' 'ID' 'IE' 'IF' 'IG' 'IH' 'II'
+ 'IJ' 'IK' 'IL' 'IM' 'IN' 'IO' 'IP' 'IR' 'IS' 'IT' 'IU' 'IV' 'IY' 'IZ'
+ 'JA' 'JB' 'JC' 'JD' 'JE' 'JF' 'JG' 'JH' 'JI' 'JJ' 'JK' 'JL' 'JM' 'JN'
+ 'JO' 'JP' 'JR' 'JS' 'JT' 'JU' 'JV' 'JY' 'JZ' 'KA' 'KB' 'KC' 'KD' 'KE'
+ 'KF' 'KG' 'KH' 'KI' 'KJ' 'KK' 'KL' 'KM' 'KN' 'KO' 'KP' 'KR' 'KS' 'KT'
+ 'KU' 'KV' 'KY' 'KZ' 'LA' 'LB' 'LC' 'LD' 'LE' 'LF' 'LG' 'diagnosis']
